@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091784674706",
+    "project_id": "fitblock-ad8cd",
+    "storage_bucket": "fitblock-ad8cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091784674706:android:eb9028ef4c52ef6bc7054b",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqJ_wDl2iV1vbf-MkhRLBN2eURW_P5wQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
